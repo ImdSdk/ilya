@@ -1,0 +1,41 @@
+@media screen and (max-width:480px){
+
+}
+@media (max-width: 570px){
+	.used-title h1{
+		font-size: 2.5rem;
+	}
+	.offer-title{
+		font-size: 2rem;
+	}
+	.footer-link{
+		font-size: .9rem;
+	}
+	.pay-img{
+		width: 3%;
+	}
+	#f-b{
+		width: 100%;
+	}
+}
+@media screen and (max-width:768px){
+	.welcome-btn{
+		width: 80%;
+	}
+	.fa-search{
+		left: 62%;
+	}
+
+}
+@media screen and (max-width:1024px){
+	.pay-img{
+		width: 18%;
+	}
+	.fa-chevron-circle-right{
+	left: 90%;
+	 }
+}
+
+.carousel-inner{
+	height: 300px;
+}
